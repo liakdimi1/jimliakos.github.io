@@ -1,6 +1,6 @@
 ---
-name: Anna Thompson
-position: Developer
-image_path: "https://unsplash.it/600/503?image=1025&a=.png"
-twitter: CloudCannonApp
+name: Jim Liakos
+position: Freelancer
+image_path: "https://i.postimg.cc/6qK6spyK/357292678-1230963280944267-2366969378088114895-n.jpg"
+linkedin: www.linkedin.com/in/dimitrisliakos
 ---
