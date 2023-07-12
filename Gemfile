@@ -8,4 +8,9 @@ group :jekyll_plugins do
   gem 'jekyll-paginate', '~> 1.1.0'
   gem 'jekyll-seo-tag', '~> 2.7.1'
   gem 'jekyll-sitemap', '~> 1.4.0'
+  gem 'tzinfo-data', '~> 1.2021', '>= 1.2021.5'
+  gem "rails", "~> 7.0.2", ">= 7.0.2.3"
+  gem "sprockets-rails"
+  gem "puma", "~> 5.0"
+  gem 'webrick'
 end
