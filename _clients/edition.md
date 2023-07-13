@@ -1,6 +1,6 @@
 ---
 name: Edition Template
-subtitle: Product documentation template for Jekyll
+subtitle: Product documentation template.
 external_url: https://long-pig.cloudvent.net/
 image_path: /images/clients/edition.png
 ---
