@@ -1,6 +1,6 @@
 ---
 name: Justice Template
-subtitle: Law firm themed business template
+subtitle: Law firm themed business template.
 external_url: https://grey-grouse.cloudvent.net/
 image_path: /images/clients/justice.jpg
 ---
