@@ -1,6 +1,6 @@
 ---
 name: Malt Template
-subtitle: Event marketing template for Jekyll
+subtitle: Event marketing template.
 external_url: https://whispering-boat.cloudvent.net/
 image_path: /images/clients/malt.jpg
 ---
