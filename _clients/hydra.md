@@ -5,7 +5,7 @@ external_url: https://proud-alligator.cloudvent.net/
 image_path: /images/clients/hydra.png
 ---
 
-Marketing site template for Jekyll. Browse through a [live demo](https://proud-alligator.cloudvent.net/).
+Marketing site template. Browse through a [live demo](https://proud-alligator.cloudvent.net/).
 Increase the web presence of your brand with this configurable theme.
 
 
