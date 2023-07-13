@@ -5,7 +5,7 @@ external_url: https://long-pig.cloudvent.net/
 image_path: /images/clients/edition.png
 ---
 
-Product documentation template for Jekyll. Browse through a [live demo](https://long-pig.cloudvent.net/).
+Product documentation template. Browse through a [live demo](https://long-pig.cloudvent.net/).
 Start documenting your product, application, service or website with this configurable theme.
 
 ## Features
