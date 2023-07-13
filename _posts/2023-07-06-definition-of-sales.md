@@ -2,7 +2,7 @@
 title: Definition of sales
 categories:
   - sales
-author_staff_member: anna
+author_staff_member: Jim
 show_comments: true
 ---
 
