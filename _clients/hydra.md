@@ -1,6 +1,6 @@
 ---
 name: Hydra Template
-subtitle: Product marketing template for Jekyll
+subtitle: Product marketing template.
 external_url: https://proud-alligator.cloudvent.net/
 image_path: /images/clients/hydra.png
 ---
