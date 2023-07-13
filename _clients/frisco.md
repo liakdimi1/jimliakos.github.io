@@ -5,7 +5,7 @@ external_url: https://brave-submarine.cloudvent.net/
 image_path: /images/clients/frisco.jpg
 ---
 
-App promotion themed template for Jekyll. Browse through a [live demo](https://brave-submarine.cloudvent.net/).
+App promotion themed template. Browse through a [live demo](https://brave-submarine.cloudvent.net/).
 Increase the web presence of a App with this configurable theme.
 
 ## Features
