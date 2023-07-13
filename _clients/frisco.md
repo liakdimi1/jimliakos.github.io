@@ -1,6 +1,6 @@
 ---
 name: Frisco Template
-subtitle: App marketing template for Jekyll
+subtitle: App marketing template.
 external_url: https://brave-submarine.cloudvent.net/
 image_path: /images/clients/frisco.jpg
 ---
